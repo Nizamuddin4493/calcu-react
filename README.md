@@ -2,7 +2,7 @@
 
 # Math Calculator
 
-> This is the Math Calculator application buiding in React Js.
+> This Math Calculator application is build in React Js to make calculation.
 
 
 ## Setup
@@ -49,4 +49,4 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## 📝 License
-This project is ISC licensed.
+This project is MIT licensed.
