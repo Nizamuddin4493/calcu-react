@@ -3,7 +3,7 @@ import '../index.css';
 import Buttons from './Buttons';
 import calculate from '../logic/calculate';
 
-const CalDesign = () => {
+const Calculator = () => {
   const [displayed, setDisplayed] = useState({ total: 0, next: '', operation: '' });
 
   const onClick = (e) => {
@@ -24,4 +24,4 @@ const CalDesign = () => {
   );
 };
 
-export default CalDesign;
+export default Calculator;
