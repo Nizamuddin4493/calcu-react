@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <section className="mian-txt-body">
-        <h1>Math Magicians</h1>
+        <h1>Welcome to Our Page.</h1>
         <br />
         <article>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis fuga

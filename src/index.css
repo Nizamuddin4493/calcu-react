@@ -13,13 +13,12 @@
 
 .calculator {
   width: 320px;
-  height: 600px;
+  height: 400px;
   display: flex;
   flex-direction: column;
   align-content: flex-end;
   float: right;
-  margin-top: 50px;
-  margin-right: 30px;
+  margin-right: 150px;
 }
 
 .row {
@@ -375,4 +374,9 @@ nav {
 .mian-txt-body {
   margin: 50px auto 200px auto;
   width: 900px;
+}
+
+.ldsc {
+  margin: 50px 0 0 100px;
+  width: 400px;
 }
